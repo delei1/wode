@@ -70,38 +70,38 @@ a{
 	text-decoration:none;
 }
 .box1{
-	background-image:url(images/h-12.jpg);
+	background-image:url(img2/h-12.jpg);
 }
 .box1 .text{
 	margin-left:20%;
 	margin-top:20%;
 }
 .box2{
-	background-image:url(images/h-8.jpg);}
+	background-image:url(img2/h-8.jpg);}
 .box2 .text{
 	margin-left:20%;
 	margin-top:20%;
 }
 .box3{
-	background-image:url(images/h-13.jpg);}
+	background-image:url(img2/h-13.jpg);}
 .box3 .text{
 	margin-left:20%;
 	margin-top:20%;
 }
 .box4{
-	background:#666 url(images/bg.png) no-repeat center bottom;}
+	background:#666 url(img2/bg.png) no-repeat center bottom;}
 .box4 .text{
 	margin-left:20%;
 	margin-top:20%;
 }
 .box5{
-	background-image:url(images/h-24.jpg);}
+	background-image:url(img2/h-24.jpg);}
 .box5 .text{
 	margin-left:20%;
 	margin-top:20%;
 }
 .box6{
-	background-image:url(images/h-21.jpg);}
+	background-image:url(img2/h-21.jpg);}
 .box6 .text{
 	margin-left:20%;
 	margin-top:20%;
